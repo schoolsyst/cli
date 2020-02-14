@@ -28,28 +28,7 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-* [`schoolsyst hello [FILE]`](#schoolsyst-hello-file)
 * [`schoolsyst help [COMMAND]`](#schoolsyst-help-command)
-
-## `schoolsyst hello [FILE]`
-
-describe the command here
-
-```
-USAGE
-  $ schoolsyst hello [FILE]
-
-OPTIONS
-  -f, --force
-  -h, --help       show CLI help
-  -n, --name=name  name to print
-
-EXAMPLE
-  $ schoolsyst hello
-  hello world from ./src/hello.ts!
-```
-
-_See code: [src/commands/hello.ts](https://github.com/schoolsyst/cli/blob/v0.0.1/src/commands/hello.ts)_
 
 ## `schoolsyst help [COMMAND]`
 
