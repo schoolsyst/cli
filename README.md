@@ -19,7 +19,7 @@ $ npm install -g schoolsyst
 $ schoolsyst COMMAND
 running command...
 $ schoolsyst (-v|--version|version)
-schoolsyst/0.0.1 linux-x64 node-v13.8.0
+schoolsyst/0.1.0 linux-x64 node-v13.8.0
 $ schoolsyst --help [COMMAND]
 USAGE
   $ schoolsyst COMMAND

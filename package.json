@@ -1,7 +1,7 @@
 {
   "name": "schoolsyst",
   "description": "A CLI Frontend for the schoolsyst API. See https://git.schoolsyst.com/backend",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Ewen Le Bihan @ewen-lbh",
   "bin": {
     "schoolsyst": "./bin/run"
